@@ -1,14 +1,16 @@
-# Práctica S8 IG · Accidentes aéreos 1970–2020 sobre el planeta Tierra
+# Accidentes aéreos 1970–2020 sobre el planeta Tierra
 
-Visualización en **three.js** de la evolución de la tasa mundial de accidentes aéreos mortales, sobre un globo terráqueo con miles de aviones en movimiento y un contador de años.
+Visualización en de la evolución de la tasa mundial de accidentes aéreos mortales, sobre un globo terráqueo con miles de aviones en movimiento y un contador de años.
 
-> **Vídeo de la visualización:** _(pega aquí el enlace o añade el archivo, máx. 30 s)_
->
-> **Autor/a:** _(nombre y apellidos)_
+> Autoría: Houyame Liazidi Daoudi · Asignatura: Informática Gráfica
 
----
+## Vídeo de ejecución
 
-## Qué muestra
+
+## Enlace de codesandbox
+
+
+## Qué se ha hecho
 
 Un planeta 3D (esfera con textura de la Tierra, halo atmosférico y fondo de estrellas) por el que vuelan unos 1500 aviones a la vez entre 91 aeropuertos reales. Arriba, un **contador de año** recorre de 1970 a 2020 en unos 28 segundos. Cada año:
 
